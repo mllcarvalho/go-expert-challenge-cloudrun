@@ -1,4 +1,4 @@
-# goexpert-weather-api
+# g-expert-challenge-cloudrun
 
 Projeto desenvolvido como parte do laboratório "Deploy com Cloud Run" do treinamento GoExpert (FullCycle).
 
